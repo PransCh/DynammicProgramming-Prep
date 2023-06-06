@@ -1,2 +1,5 @@
 In, Simple words we can say DP as a optimization approach for recursion. The Time Complexity in recursion is exponential we try to make it linear with use of Memoization and Tabulation (Top Down & Bottom Up).
-DP help us to solve the solutions for overlapping sub problems in function calls. Ex: fib(3)->fib(2)+fib(1), fib(2) can be written as fib(1)+fib(0), as we can observe there are two function calls which calculate for same solution,if we find it the solution for one such and use it everywhere the code becomes efficient. 
+
+DP help us to solve the solutions for overlapping sub problems in function calls. 
+
+Ex: fib(3)->fib(2)+fib(1), fib(2) can be written as fib(1)+fib(0), as we can observe there are two function calls which calculate for same solution,if we find it the solution for one such and use it everywhere the code becomes efficient. 
